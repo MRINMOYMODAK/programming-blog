@@ -1,0 +1,11 @@
+.post-details-container{
+    border: 2px solid lightgray;
+    padding: 3%;
+    margin: 2%;
+    width: 50%;
+}
+.comments-container{
+    display: flex;
+    margin: 2%;
+    padding: 2%;
+}
